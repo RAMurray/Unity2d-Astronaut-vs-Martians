@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.2D Platformer Demo.CSharp.Plugins", "UnityVS.2D Platformer Demo.CSharp.Plugins.csproj", "{7E9CD019-7472-DBC7-9274-EC61CD4BF0D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.2D Platformer Demo.CSharp", "UnityVS.2D Platformer Demo.CSharp.csproj", "{7BF05514-0EFF-81B3-98E3-4C202DD8B397}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.2D Platformer Demo.CSharp.Editor", "UnityVS.2D Platformer Demo.CSharp.Editor.csproj", "{AF8C16CB-CF86-B0D2-B9DD-83B2C0CEB53B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E9CD019-7472-DBC7-9274-EC61CD4BF0D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E9CD019-7472-DBC7-9274-EC61CD4BF0D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E9CD019-7472-DBC7-9274-EC61CD4BF0D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E9CD019-7472-DBC7-9274-EC61CD4BF0D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BF05514-0EFF-81B3-98E3-4C202DD8B397}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BF05514-0EFF-81B3-98E3-4C202DD8B397}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BF05514-0EFF-81B3-98E3-4C202DD8B397}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BF05514-0EFF-81B3-98E3-4C202DD8B397}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF8C16CB-CF86-B0D2-B9DD-83B2C0CEB53B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF8C16CB-CF86-B0D2-B9DD-83B2C0CEB53B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF8C16CB-CF86-B0D2-B9DD-83B2C0CEB53B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF8C16CB-CF86-B0D2-B9DD-83B2C0CEB53B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
